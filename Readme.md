@@ -22,14 +22,14 @@ This project automates sending personalized birthday emails to your loved ones b
 
 **Usage:**
 
-1. **Create a CSV file named `birthdays.csv` in the project directory with the following columns:**
+1. **Update the CSV file named `birthdays.csv` in the project directory with the following columns:**
     * `name`: Name of the person
     * `month`: Month of birth (integer)
     * `day`: Day of birth (integer)
     * `email`: Email address
    
 
-2. **Set the `EMAIL_PASSWORD` environment variable with your email password.**
+2. **Set the `EMAIL_PASSWORD` environment variable with your email password to make your password secure.**
 
     Here's how to do it:
 
