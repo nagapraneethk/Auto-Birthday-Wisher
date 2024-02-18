@@ -1,4 +1,4 @@
-## Projetct: Automated Birthday Mail Sender
+## Project: Automated Birthday Mail Sender
 
 This project automates sending personalized birthday emails to your loved ones based on a CSV file containing birthdays and email addresses. It uses secure environment variables to store your email password and provides different letter templates for personalization.
 
