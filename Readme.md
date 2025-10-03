@@ -1,4 +1,4 @@
-## Birthday Reminder Project
+## Project: Automated Birthday Mail Sender
 
 This project automates sending personalized birthday emails to your loved ones based on a CSV file containing birthdays and email addresses. It uses secure environment variables to store your email password and provides different letter templates for personalization.
 
@@ -22,14 +22,14 @@ This project automates sending personalized birthday emails to your loved ones b
 
 **Usage:**
 
-1. **Create a CSV file named `birthdays.csv` in the project directory with the following columns:**
+1. **Update the CSV file named `birthdays.csv` in the project directory with the following columns:**
     * `name`: Name of the person
     * `month`: Month of birth (integer)
     * `day`: Day of birth (integer)
     * `email`: Email address
    
 
-2. **Set the `EMAIL_PASSWORD` environment variable with your email password.**
+2. **Set the `EMAIL_PASSWORD` environment variable with your email password to make your password secure.**
 
     Here's how to do it:
 
