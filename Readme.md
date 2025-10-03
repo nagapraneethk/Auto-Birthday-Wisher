@@ -17,7 +17,7 @@ This project automates sending personalized birthday emails to your loved ones b
 
 **Installation:**
 
-1. Clone this repository: `git clone https://github.com/nagapraneethk/Auto-Birthday-Wisher`
+1. Clone this repository: `git clone https://github.com/nagapraneethk/Auto-Birthday-Wisher.git`
 2. Install dependencies: `pip install -r requirements.txt`
 
 **Usage:**
